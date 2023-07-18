@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Overview
+# Passive Components
 
 {% include list.liquid all=true %}
