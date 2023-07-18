@@ -80,7 +80,3 @@ If both readings fall within the range of 0.5V to 0.7V, the transistor is likely
 
 Testing a transistor with a multimeter is a straightforward process, but always remember safety precautions. If your transistor is showing signs of failure, replace it promptly to prevent potential damage.
 
-## Conclusion
-
-Transistors play a critical role in modern vehicles, contributing to functions such as engine control, audio systems, lighting, and sensor operations. 
-
