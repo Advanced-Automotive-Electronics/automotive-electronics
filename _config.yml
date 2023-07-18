@@ -1,8 +1,8 @@
-title: Run Docs Template
+title: Automotive Electronics
 lang: en
-description: RunDocsTemplate
-repository: scotthadzik/RunDocsTemplate
-baseurl: /RunDocsTemplate
+description: automotive-electronics
+repository: scotthadzik/automotive-electronics
+baseurl: /automotive-electronics
 
 remote_theme: rundocs/jekyll-rtd-theme
 
