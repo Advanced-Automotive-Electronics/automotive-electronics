@@ -5,7 +5,7 @@ sort: 2
 # Inductors
 
 <figure class="aligncenter">
-    <img src="media/inductor.jpg.jpg" alt="Inductor" style="width: 90%"/>
+    <img src="media/inductor.jpg" alt="Inductor" style="width: 90%"/>
     <figcaption>Inductor</figcaption>
 </figure>
 
