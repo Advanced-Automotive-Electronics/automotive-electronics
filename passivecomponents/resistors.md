@@ -38,7 +38,10 @@ Fixed resistors are resistors whose resistance values remain constant and cannot
 
 ## Variable Resistors
 
-![Variable Resistor](VariableResistor.png)
+<figure class="aligncenter">
+    <img src="media/schem_var_resistor.png" alt="Schematic symbol for Variable Resistor" style="width: 30%"/>
+    <figcaption>Schematic Symbol for Variable Resistor</figcaption>
+</figure>
 
 Variable resistors, often referred to as potentiometers or rheostats, allow for adjustable resistance. Their resistance can be changed by adjusting a knob or slider.
 
