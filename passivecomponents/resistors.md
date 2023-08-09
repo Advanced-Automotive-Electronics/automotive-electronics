@@ -24,13 +24,12 @@ A resistor works by impeding or restricting the flow of electrical current. Its 
 
 Fixed resistors are resistors whose resistance values remain constant and cannot be changed or adjusted. They are the most commonly used type of resistor and come in various forms:
 
-1. **Carbon Composition**: These are made of a carbon powder mixed with a binder and have been largely replaced by other types due to better stability and accuracy.
-
-
 <figure class="aligncenter">
-    <img src="media/thin_film_resistor.jpg" alt="Thin film resistor" style="width: 30%"/>
+    <img src="media/thin_film_resistor.jpg" alt="Thin Film Resistor" style="width: 30%"/>
     <figcaption>Thin Film Resistors</figcaption>
 </figure>
+
+1. **Carbon Composition**: These are made of a carbon powder mixed with a binder and have been largely replaced by other types due to better stability and accuracy.
 
 2. **Metal Film and Carbon Film**: These are thin-film resistors where a metal or carbon layer is deposited onto an insulating substrate. They offer better precision and stability than carbon composition resistors.
 
@@ -60,6 +59,45 @@ Variable resistors, often referred to as potentiometers or rheostats, allow for 
 - **Sensors**: Many sensors in a car, such as the throttle position sensor, use potentiometers to relay information about a position or range back to the car's computer system.
   
 - **Control Systems**: Variable resistors are often found in controls for audio or heating systems, allowing the user to adjust settings.
+
+
+## Wattage Rating of Resistors
+
+<figure class="aligncenter">
+    <img src="media/resistor_watt.jpg" alt="Resistor Wattage" style="width: 30%"/>
+    <figcaption>Wattage of a Resistor</figcaption>
+</figure>
+
+The wattage rating of a resistor indicates how much power it can safely dissipate without overheating or getting damaged. Power is the product of voltage and current (P = V x I). When current flows through a resistor, energy is dissipated as heat. The wattage rating ensures that the resistor can handle the heat produced without any adverse effects.
+
+### Importance of Wattage Rating
+
+1. **Safety**: Using a resistor with a wattage rating that's too low for a given circuit can lead to overheating, potentially causing fires or damage to surrounding components.
+
+2. **Performance**: A correctly rated resistor will operate efficiently and last longer. An underrated resistor might fail prematurely.
+
+3. **Tolerance**: High-wattage resistors often have better tolerance to power surges or spikes in a circuit.
+
+### Selecting the Right Wattage
+
+When choosing a resistor for a particular application:
+
+- Determine the maximum power the resistor will experience. This can be calculated using Ohm's Law and the Power Law.
+  
+- Choose a resistor with a wattage rating greater than the maximum power calculated. A common practice is to select a resistor with a wattage rating at least double the expected power dissipation for added safety.
+
+### Role in Automobiles
+
+- **Durability**: In automotive applications, resistors might experience power surges. Using resistors with the correct wattage rating ensures longevity.
+  
+- **Protection**: In systems like headlights, dashboard illumination, or entertainment units, the correct wattage ensures components aren't damaged due to excessive heat.
+
+
+
+
+
+
+
 
 ## Testing a Resistor with a Multimeter
 
