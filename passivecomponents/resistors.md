@@ -26,6 +26,12 @@ Fixed resistors are resistors whose resistance values remain constant and cannot
 
 1. **Carbon Composition**: These are made of a carbon powder mixed with a binder and have been largely replaced by other types due to better stability and accuracy.
 
+
+<figure class="aligncenter">
+    <img src="media/thin_film_resistor.jpg" alt="Thin film resistor" style="width: 30%"/>
+    <figcaption>Thin Film Resistors</figcaption>
+</figure>
+
 2. **Metal Film and Carbon Film**: These are thin-film resistors where a metal or carbon layer is deposited onto an insulating substrate. They offer better precision and stability than carbon composition resistors.
 
 3. **Wirewound**: These consist of a metal wire wrapped around an insulating core. They're often used in high-power applications.
