@@ -18,7 +18,7 @@ A resistor works by impeding or restricting the flow of electrical current. Its 
 ## Fixed Resistors
 
 <figure class="aligncenter">
-    <img src="media/schem_resistor.png" alt="Schematic symbol for Resistor" style="width: 90%"/>
+    <img src="media/schem_resistor.png" alt="Schematic symbol for Resistor" style="width: 30%"/>
     <figcaption>Schematic Symbol for Fixed Resistor</figcaption>
 </figure>
 
