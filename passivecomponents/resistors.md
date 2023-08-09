@@ -4,7 +4,10 @@ sort: 1
 
 # Resistors
 
-![Resistor](media/resistors.png)
+<figure class="aligncenter">
+    <img src="media/resistors.png" alt="Resistors" style="width: 90%"/>
+    <figcaption>Resistors</figcaption>
+</figure>
 
 Resistors are passive two-terminal electrical components that implement electrical resistance as a circuit element. They reduce current flow and, at the same time, lower voltage levels within circuits.
 
