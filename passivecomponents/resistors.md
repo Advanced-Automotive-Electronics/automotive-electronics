@@ -5,7 +5,7 @@ sort: 1
 # Resistors
 
 <figure class="aligncenter">
-    <img src="media/resistors.png" alt="Resistors" style="width: 90%"/>
+    <img src="media/resistors.jpg" alt="Resistors" style="width: 90%"/>
     <figcaption>Resistors</figcaption>
 </figure>
 
@@ -17,7 +17,10 @@ A resistor works by impeding or restricting the flow of electrical current. Its 
 
 ## Fixed Resistors
 
-![Fixed Resistor](FixedResistor.png)
+<figure class="aligncenter">
+    <img src="media/schem_resistor.png" alt="Schematic symbol for Resistor" style="width: 90%"/>
+    <figcaption>Schematic Symbol for Fixed Resistor</figcaption>
+</figure>
 
 Fixed resistors are resistors whose resistance values remain constant and cannot be changed or adjusted. They are the most commonly used type of resistor and come in various forms:
 
