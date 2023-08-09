@@ -1,8 +1,8 @@
 ---
-sort: 3
+sort: 4
 ---
 
-# Diodes in Automobiles
+# Diodes
 
 ![Diode](Diode.png)
 

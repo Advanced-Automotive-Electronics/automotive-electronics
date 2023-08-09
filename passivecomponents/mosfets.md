@@ -1,8 +1,8 @@
 ---
-sort: 5
+sort: 6
 ---
 
-# MOSFETs in Automobiles
+# MOSFETs
 
 ![MOSFET](MOSFET.png)
 
