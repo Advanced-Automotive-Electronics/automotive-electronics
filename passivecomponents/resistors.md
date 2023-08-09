@@ -4,12 +4,12 @@ sort: 1
 
 # Resistors
 
+Resistors are passive two-terminal electrical components that implement electrical resistance as a circuit element. They reduce current flow and, at the same time, lower voltage levels within circuits.
+
 <figure class="aligncenter">
     <img src="media/resistors.jpg" alt="Resistors" style="width: 50%"/>
     <figcaption>Resistors</figcaption>
 </figure>
-
-Resistors are passive two-terminal electrical components that implement electrical resistance as a circuit element. They reduce current flow and, at the same time, lower voltage levels within circuits.
 
 ## How Does a Resistor Work?
 
@@ -17,16 +17,11 @@ A resistor works by impeding or restricting the flow of electrical current. Its 
 
 ## Fixed Resistors
 
-<figure class="aligncenter">
-    <img src="media/schem_resistor.png" alt="Schematic symbol for Resistor" style="width: 30%"/>
-    <figcaption>Schematic Symbol for Fixed Resistor</figcaption>
-</figure>
-
 Fixed resistors are resistors whose resistance values remain constant and cannot be changed or adjusted. They are the most commonly used type of resistor and come in various forms:
 
 <figure class="aligncenter">
-    <img src="media/thin_film_resistor.jpg" alt="Thin Film Resistor" style="width: 30%"/>
-    <figcaption>Thin Film Resistors</figcaption>
+    <img src="media/schem_resistor.png" alt="Schematic symbol for Resistor" style="width: 30%"/>
+    <figcaption>Schematic Symbol for Fixed Resistor</figcaption>
 </figure>
 
 1. **Carbon Composition**: These are made of a carbon powder mixed with a binder and have been largely replaced by other types due to better stability and accuracy.
@@ -34,6 +29,11 @@ Fixed resistors are resistors whose resistance values remain constant and cannot
 2. **Metal Film and Carbon Film**: These are thin-film resistors where a metal or carbon layer is deposited onto an insulating substrate. They offer better precision and stability than carbon composition resistors.
 
 3. **Wirewound**: These consist of a metal wire wrapped around an insulating core. They're often used in high-power applications.
+
+<figure class="aligncenter">
+    <img src="media/thin_film_resistor.jpg" alt="Thin Film Resistor" style="width: 30%"/>
+    <figcaption>Thin Film Resistors</figcaption>
+</figure>
 
 ### Role of Fixed Resistors in Automobiles
 
@@ -43,12 +43,12 @@ Fixed resistors are resistors whose resistance values remain constant and cannot
 
 ## Variable Resistors
 
+Variable resistors, often referred to as potentiometers or rheostats, allow for adjustable resistance. Their resistance can be changed by adjusting a knob or slider.
+
 <figure class="aligncenter">
     <img src="media/schem_var_resistor.png" alt="Schematic symbol for Variable Resistor" style="width: 30%"/>
     <figcaption>Schematic Symbol for Variable Resistor</figcaption>
 </figure>
-
-Variable resistors, often referred to as potentiometers or rheostats, allow for adjustable resistance. Their resistance can be changed by adjusting a knob or slider.
 
 1. **Potentiometers**: These have three terminals and provide variable voltage. They are frequently used in volume controls in audio systems.
 
@@ -63,12 +63,14 @@ Variable resistors, often referred to as potentiometers or rheostats, allow for 
 
 ## Wattage Rating of Resistors
 
+
+
+The wattage rating of a resistor indicates how much power it can safely dissipate without overheating or getting damaged. Power is the product of voltage and current (P = V x I). When current flows through a resistor, energy is dissipated as heat. The wattage rating ensures that the resistor can handle the heat produced without any adverse effects.
+
 <figure class="aligncenter">
     <img src="media/resistor_watt.jpg" alt="Resistor Wattage" style="width: 30%"/>
     <figcaption>Wattage of a Resistor</figcaption>
 </figure>
-
-The wattage rating of a resistor indicates how much power it can safely dissipate without overheating or getting damaged. Power is the product of voltage and current (P = V x I). When current flows through a resistor, energy is dissipated as heat. The wattage rating ensures that the resistor can handle the heat produced without any adverse effects.
 
 ### Importance of Wattage Rating
 
@@ -91,13 +93,6 @@ When choosing a resistor for a particular application:
 - **Durability**: In automotive applications, resistors might experience power surges. Using resistors with the correct wattage rating ensures longevity.
   
 - **Protection**: In systems like headlights, dashboard illumination, or entertainment units, the correct wattage ensures components aren't damaged due to excessive heat.
-
-
-
-
-
-
-
 
 ## Testing a Resistor with a Multimeter
 
