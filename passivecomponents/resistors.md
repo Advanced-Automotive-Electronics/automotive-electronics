@@ -5,7 +5,7 @@ sort: 1
 # Resistors
 
 <figure class="aligncenter">
-    <img src="media/resistors.jpg" alt="Resistors" style="width: 90%"/>
+    <img src="media/resistors.jpg" alt="Resistors" style="width: 50%"/>
     <figcaption>Resistors</figcaption>
 </figure>
 
