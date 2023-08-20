@@ -1,3 +1,3 @@
 # Index
-- add video
-- add images
+- add video for Electronic Input
+- add images of switches
