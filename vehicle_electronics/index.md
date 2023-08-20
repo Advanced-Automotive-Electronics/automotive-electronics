@@ -21,7 +21,7 @@ The car's computer, often referred to as the Engine Control Unit (ECU) or Electr
    - **Function**: Measure wheel speed, informing the Anti-lock Braking System (ABS) and other related systems.
 
 3. **Oxygen Sensors (O2 Sensors)**:
-   - **Type**: Often zirconium or titania-based.
+   - **Type**: Often zirconium or titania-based ([Lamda sensor](https://www.picoauto.com/library/automotive-guided-tests/titania-lambda-sensor/))
    - **Function**: Placed in the exhaust system, these sensors measure oxygen content for closed-loop fuel control and monitor catalytic converter efficiency.
 
 4. **Parking Sensors**:
