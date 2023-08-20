@@ -100,7 +100,7 @@ While analog sensors still exist, many modern sensors convert physical changes i
 
 ---
 
-## The Paradigm Shift
+#### The Paradigm Shift
 
 This evolution of sensors from basic analog devices to intricate digital transmitters highlights the automotive industry's shift towards data-driven decision-making. Vehicles today rely on the constant influx of data from these sensors to ensure safety, efficiency, and performance. Understanding the progression of automotive sensors provides insight into the broader evolution of vehicles from purely mechanical marvels to integrated electromechanical systems.
 
