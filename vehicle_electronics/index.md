@@ -12,25 +12,25 @@ Modern cars have transformed from purely mechanical devices into marvels of elec
 
 The car's computer, often referred to as the Engine Control Unit (ECU) or Electronic Control Module (ECM), relies heavily on a network of sensors. These sensors provide real-time data for the ECU to make informed decisions.
 
-1. **Temperature Sensors**:
+1. **Switches**:
+   - **Type**: Electro-mechanical devices.
+   - **Function**: Used for various functions like starting the car, operating lights, or activating different modes. They work by opening or closing electrical circuits, sending signals to the ECU based on user input.
+
+2. **Temperature Sensors**:
    - **Type**: Typically NTC (Negative Temperature Coefficient) thermistors.
    - **Function**: Measure engine and coolant temperatures to inform decisions on fuel injection and ignition timing.
 
-2. **Speed Sensors**:
+3. **Speed Sensors**:
    - **Type**: Hall-effect or magnetic.
    - **Function**: Measure wheel speed, informing the Anti-lock Braking System (ABS) and other related systems.
 
-3. **Oxygen Sensors (O2 Sensors)**:
-   - **Type**: Often zirconium or titania-based ([Lamda sensor](https://www.picoauto.com/library/automotive-guided-tests/titania-lambda-sensor/))
+4. **Oxygen Sensors (O2 Sensors)**:
+   - **Type**: Often zirconium or titania-based.
    - **Function**: Placed in the exhaust system, these sensors measure oxygen content for closed-loop fuel control and monitor catalytic converter efficiency.
 
-4. **Parking Sensors**:
+5. **Parking Sensors**:
    - **Type**: Ultrasonic.
    - **Function**: Emit and receive sound waves to detect nearby obstacles, helping drivers park safely.
-
-5. **Camera Inputs**:
-   - **Type**: CCD or CMOS sensors.
-   - **Function**: Assist drivers in navigation, parking, and in certain cases, autonomous driving functions.
 
 ---
 
