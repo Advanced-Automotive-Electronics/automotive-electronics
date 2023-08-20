@@ -69,6 +69,7 @@ Cars today are a blend of mechanical genius and electronic sophistication. For t
 ### Related Articles:
 
 - [The Evolution Of Automotive Electronics Design]('https://resources.altium.com/p/the-evolution-of-automotive-electronics')
+- [What is Automotive I/O?](https://www.aptiv.com/en/insights/article/what-is-automotive-i-o)
 
 ---
 
