@@ -20,6 +20,10 @@ In our exploration of automotive electronics, it's essential to recognize the si
 
 ---
 
+<figure class="aligncenter">
+    <img src="media/switches&sensors.jpg" alt="Switches and Sensors" style="width: 80%"/>
+    <figcaption>Common Switches and Sensors</figcaption>
+</figure>
 
 ## Switches vs. Sensors
 
