@@ -1,136 +1,59 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Electronic Input
+# Electronic Output
 
-Vehicles have always needed a way to process information, and this is achieved through inputs. As vehicles have advanced, the nature and complexity of these inputs have evolved.
+Just as vehicles require mechanisms to process and interpret information through inputs, they also necessitate methods to act on that information. This action is taken through outputs. As technology in vehicles has matured, the outputs they use have become increasingly complex and varied.
 
----
+Outputs in vehicles can be thought of as the response to data collected and decisions made. These responses may result from driver demands or the autonomous decisions the vehicle makes based on its surroundings.
 
-Inputs in vehicles can be broadly categorized as mechanisms to gather data. This data can originate from the driver's actions or the vehicle's environment.
+## Historical Perspective
+In the early stages of automotive design, vehicle outputs were primarily mechanical in nature. For instance, applying brakes would mechanically stop the vehicle, and adjusting the gear would directly alter the vehicle's speed.
 
-**Historical Perspective**:
-Historically, vehicles relied primarily on direct mechanical inputs. When a driver turned the steering wheel, for instance, it directly influenced the vehicle's direction. Pressing the accelerator pedal controlled the fuel and air mix, influencing speed.
+## Modern Perspective
+In contemporary vehicles, while mechanical outputs remain integral, electronic actuations have become commonplace. This encompasses everything from electrically-controlled valves in an engine to adaptive headlight systems that adjust based on driving conditions. These outputs are governed by the onboard computer systems, ensuring real-time appropriate reactions that enhance safety, performance, and comfort.
 
-**Modern Perspective**:
-In today's context, while direct mechanical inputs still exist, electronic sensors and switches have become increasingly prevalent. These sensors can measure a wide range of parameters, from internal engine temperatures to the external environment's conditions. This data is then processed by the vehicle's computer systems to make real-time decisions, optimizing performance, safety, and efficiency.
+As we delve deeper into automotive electronics, it's crucial to understand the importance of outputs. They translate the electronic decisions into real-world actions. We will investigate two types of outputs: **actuators** and **indicators**.
 
-In our exploration of automotive electronics, it's essential to recognize the significance of inputs. They provide the data that allows a vehicle to function optimally in diverse conditions. We will examine two types of inputs: switches and sensors.
+### Actuators and Indicators
+1. Common Actuators and Indicators
+2. Actuators vs. Indicators
 
----
+In the domain of automotive electronics, it's essential to differentiate between the two primary output types: actuators and indicators.
 
-<figure class="aligncenter">
-    <img src="media/switches&sensors.jpg" alt="Switches and Sensors" style="width: 80%"/>
-    <figcaption>Common Switches and Sensors</figcaption>
-</figure>
+#### Actuators: Transforming Decisions into Actions
+Throughout our vehicles, actuators convert electrical signals into physical actions.
 
-## Switches vs. Sensors
+- **Functionality**: Actuators function by receiving an electrical signal and converting it into a mechanical movement or other outputs. For example, fuel injectors, when signaled, release fuel into the combustion chamber.
+- **Electrical Consumption**: Actuators often use variable electrical currents, depending on the demands of the system. For instance, an actuator controlling a valve may use more current when rapid action is necessary.
 
-In the realm of automotive electronics, understanding the nature and behavior of vehicle inputs is fundamental. This article elaborates on the distinction between two primary input types: switches and sensors.
+##### Actuators: Evolution from Basic to Advanced
+The role of actuators in vehicles has transformed drastically with the rise of electronics.
 
----
+- **Classic Vehicles: Direct Actuation**
+  - **Functionality**: They often worked through direct electrical activation, such as solenoids in older transmission systems.
+  - **Electrical Consumption**: These classic actuators would consume a consistent current, translating directly to a particular action.
+  
+- **Modern Vehicles: Precision Driven**
+  - **Functionality**: Modern actuators might adjust suspension stiffness in real-time or alter aerodynamics dynamically based on speed.
+  - **Electrical Consumption**: They operate at varying current levels, adjusting based on the feedback and the required outcome.
 
-## Switches: Binary Decision Inputs
+#### Indicators: Providing Feedback
+Indicators serve to relay information back to the driver or other vehicle systems.
 
-Switches are found throughout our vehicles, responsible for numerous functions.
+- **Functionality**: Instead of instigating an action, indicators provide feedback. This could range from dashboard warning lights to external lighting signaling driver intentions.
+- **Signal Projection**: Indicators typically work on predefined electrical signals, illuminating or sounding an alert based on the specific input received.
 
-**Functionality**:
-Switches work on a simple principle: they either open (break) or close (make) an electrical circuit. From the ignition switch to the simple toggle for headlights, switches play a foundational role in a car's operation.
+##### Indicators: Tracing Their Journey
+The function and sophistication of indicators have evolved alongside other vehicle systems.
 
-**Electrical Signal**:
-In electrical terms, switches provide a binary signal. When a switch is ON, it often indicates a high voltage signal, and when it's OFF, it results in a zero voltage signal.
+- **Classic Cars: Simple Alerts**
+  - **Functionality**: A temperature gauge might move into the red zone if the engine overheated, or a light might illuminate if the handbrake was engaged.
+  
+- **Modern Vehicles: Informative and Adaptive**
+  - **Functionality**: Modern dashboards can display intricate data, such as tire pressures, engine health, and even navigation prompts.
+  - **Signal Projection**: Advanced indicators adjust their alerts based on the urgency or nature of the feedback, such as adaptive headlights that adjust their intensity based on ambient light conditions.
 
----
-
-### Switches: Evolution from Classic to Contemporary
-
-Automotive switches, though seemingly straightforward, have seen significant evolution. This section traces their journey from the mechanical toggles in classic cars to the signal-driven switches in modern vehicles.
-
----
-
-#### Classic Cars: Direct Control
-
-In classic vehicles, switches had a direct purpose.
-
-**Functionality**:
-Upon activating a switch, you completed or broke an electrical circuit. For instance, the headlight switch would directly control the flow of electricity to the headlights, turning them ON or OFF.
-
-**Electrical Signal**:
-This approach meant that switches in older vehicles gave direct electrical feedback – essentially a connection or disconnection of power to the designated component.
-
----
-
-#### Modern Vehicles: Signal Mediators
-
-In contrast, contemporary vehicles have adopted a more sophisticated system.
-
-**Functionality**:
-Today's switches often act as messengers rather than direct controllers. When a switch is activated, instead of controlling a device directly, it sends a signal to the vehicle's ECU, which then carries out the command.
-
-**Electrical Signal**:
-Modern switches often send low-current signals to the ECU. The ECU, upon receiving this input, interprets the command and controls the respective device or function, ensuring that it operates as intended.
-
----
-
-#### The Underlying Shift
-
-At the heart of this evolution is the move from electromechanical control to electronic control. With the integration of computer systems in vehicles, even simple inputs like switches now interact with sophisticated electronics, allowing for more features, precision, and adaptability. The evolution of switches in vehicles mirrors the larger shift from purely mechanical systems to integrated electronic ones. 
-
----
-
-## Sensors: Capturing Continuous Insights
-
-Sensors, on the other hand, are more intricate. They monitor, measure, and relay information about various vehicle parameters.
-
-**Functionality**:
-Unlike the binary nature of switches, sensors provide varying data. For instance, a speed sensor can indicate a range of speeds, not just a 'moving' or 'not moving' state.
-
-**Electrical Signal**:
-The electrical output from a sensor can be analog or digital. For example, an analog temperature sensor’s voltage may vary continuously with the temperature, providing a detailed picture of temperature changes. Digital sensors, however, provide discrete signals, often processed and sent as specific values to other systems.
-
----
-
-### Sensors: Evolution from Classic to Contemporary
-
-Automotive sensors are the unsung heroes of a vehicle's functioning. This article section their evolution from the basic mechanisms in classic cars to the advanced systems in modern vehicles.
-
----
-
-#### Classic Cars: Basic Analog Feedback
-
-The sensors in classic cars served foundational purposes.
-
-**Functionality**:
-Most were directly mechanical or electromechanical. Think of the temperature sensor that varied its resistance with engine coolant temperature, or the mechanical linkage indicating throttle position.
-
-**Signal Type**:
-These sensors predominantly provided analog feedback, where changes in physical conditions led to direct changes in output signals, often in the form of varying voltages.
-
----
-
-#### Modern Vehicles: Precision and Versatility
-
-Modern vehicles, with their dependence on electronic systems, demand a greater degree of precision from sensors.
-
-**Functionality**:
-Contemporary sensors cover a broader spectrum – from detecting minute changes in oxygen concentration for optimal combustion to sensing wheel speeds for advanced traction control systems.
-
-**Signal Type**:
-While analog sensors still exist, many modern sensors convert physical changes into digital signals. These digital outputs can be processed rapidly by ECUs, enabling real-time adjustments for optimal vehicle performance.
-
----
-
-#### The Paradigm Shift
-
-This evolution of sensors from basic analog devices to intricate digital transmitters highlights the automotive industry's shift towards data-driven decision-making. Vehicles today rely on the constant influx of data from these sensors to ensure safety, efficiency, and performance. Understanding the progression of automotive sensors provides insight into the broader evolution of vehicles from purely mechanical marvels to integrated electromechanical systems.
-
----
-
-### In Conclusion
-
-While both switches and sensors serve as inputs to a car's computer system, they differ significantly in their functionality and the nature of their electrical signals. Grasping this distinction is vital for technicians, engineers, and automotive enthusiasts aiming to understand the electronics that drive modern vehicles.
-
----
-
-
+## In Conclusion
+Outputs, both in the form of actuators and indicators, are crucial components of the modern vehicle's electronics. While actuators translate decisions into actions, indicators provide essential feedback to drivers and systems. Recognizing their role and evolution is fundamental for anyone looking to understand the intricate dance of electronics in today's vehicles.
