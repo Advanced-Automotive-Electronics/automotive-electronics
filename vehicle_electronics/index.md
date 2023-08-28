@@ -40,7 +40,7 @@ The car's computer, often referred to as the Engine Control Unit (ECU) or Electr
 
 ---
 
-## Central Processing: The Brain Behind the Operation
+## Central Processing Unit (CPU): The Brain Behind the Operation
 
 The heart of any vehicle's electronic system is its central processor. Just as the human brain interprets signals from the eyes and ears to make informed decisions, the ECU or ECM in a vehicle processes data from various sensors and produces outputs that drive different components.
 
@@ -91,7 +91,7 @@ Once data is collected and processed, the ECU generates commands which translate
 
 ## Conclusion
 
-Cars today are a blend of mechanical genius and electronic sophistication. For technicians and automotive enthusiasts alike, understanding the intricacies of these systems is more crucial than ever. As vehicle technology continues to advance, this fusion of mechanics and electronics will only become more integrated.
+Cars today are a blend of mechanical and electronic systems. For technicians understanding the intricacies of these systems is more crucial than ever. As vehicle technology continues to advance, this fusion of mechanics and electronics will only become more integrated.
 
 ---
 
