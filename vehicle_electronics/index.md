@@ -4,7 +4,7 @@ sort: 1
 
 # Vehicle Electronics
 
-Modern cars have transformed from purely mechanical devices into marvels of electronics and computing. Underneath the sleek exteriors, a multitude of sensors and computer systems work in unison to ensure optimal performance, safety, and efficiency. For those who service these vehicles, a detailed understanding of these systems is crucial. This article, accompanying our latest YouTube video, offers a technical overview of the inputs and outputs in car computer systems.
+Modern cars have transformed from purely mechanical devices into marvels of electronics and computing. Underneath the exteriors, a multitude of sensors and computer systems work in unison to ensure optimal performance, safety, and efficiency. For those who service these vehicles, a detailed understanding of these systems is crucial. This article, accompanying our latest YouTube video, offers a technical overview of the inputs and outputs in car computer systems.
 
 <figure class="aligncenter">
     <img src="media/Input_CPU_Output.jpg" alt="Input CPU Output" style="width: 80%"/>
